@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Aditi Sonkar!
-💻 Currently working on creating responsive websites and exploring real-world problem-solving.
-🚀 Areas I explore: React, Node.js, Express.js. jQuery, Bootstrap. 
-🎯 Goal: Contribute to open source, build real-world projects and grow as a full-stack developer.
-🌐 Portfolio: Coming Soon
-💡 Curiosity sparks my code. Growth shapes my journey.
+👋 Hi, I'm Aditi Sonkar! <br> 
+💻 Currently working on creating responsive websites and exploring real-world problem-solving. <br> 
+🚀 Areas I explore: React, Node.js, Express.js. jQuery, Bootstrap.  <br> 
+🎯 Goal: Contribute to open source, build real-world projects and grow as a full-stack developer. <br> 
+🌐 Portfolio: {Coming Soon} <br> 
+💡 Curiosity sparks my code. Growth shapes my journey. <br> 
 
 
 <!--
