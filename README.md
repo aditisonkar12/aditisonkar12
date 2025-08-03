@@ -1,5 +1,6 @@
-##Hi👋, I'm Aditi Sonkar! <br> 
-#Full Stack Developer | Problem Solver | DSA Enthusiast<br> 
+## Hi👋, I'm Aditi Sonkar!  <br> 
+### Full Stack Developer | Problem Solver | DSA Enthusiast<br> 
+
 <ul>
   <li>💻 Currently working on creating responsive websites and exploring real-world problem-solving.
  </li>
@@ -9,8 +10,9 @@
  </li>
   <li>🌐 Portfolio: {Coming Soon} 
  </li>
+  <li>💡Curiosity sparks my code. Growth shapes my journey. </li>
 </ul>
-#💡 Curiosity sparks my code. Growth shapes my journey. <br> 
+
 
 
 <!--
