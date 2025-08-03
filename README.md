@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditi Sonkar!
+💻 Currently working on creating responsive websites and exploring real-world problem-solving.
+🚀 Areas I explore: React, Node.js, Express.js. jQuery, Bootstrap. 
+🎯 Goal: Contribute to open source, build real-world projects and grow as a full-stack developer.
+🌐 Portfolio: Coming Soon
+💡 Curiosity sparks my code. Growth shapes my journey.
+
 
 <!--
 **aditisonkar12/aditisonkar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
