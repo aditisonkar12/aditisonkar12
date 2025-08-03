@@ -1,5 +1,5 @@
-<center> ##Hi👋, I'm Aditi Sonkar! </center><br> 
-<center> #Full Stack Developer | Problem Solver | DSA Enthusiast</center><br> 
+##Hi👋, I'm Aditi Sonkar! <br> 
+#Full Stack Developer | Problem Solver | DSA Enthusiast<br> 
 <ul>
   <li>💻 Currently working on creating responsive websites and exploring real-world problem-solving.
  </li>
