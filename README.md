@@ -1,9 +1,16 @@
-👋 Hi, I'm Aditi Sonkar! <br> 
-💻 Currently working on creating responsive websites and exploring real-world problem-solving. <br> 
-🚀 Areas I explore: React, Node.js, Express.js. jQuery, Bootstrap.  <br> 
-🎯 Goal: Contribute to open source, build real-world projects and grow as a full-stack developer. <br> 
-🌐 Portfolio: {Coming Soon} <br> 
-💡 Curiosity sparks my code. Growth shapes my journey. <br> 
+<center> ##Hi👋, I'm Aditi Sonkar! </center><br> 
+<center> #Full Stack Developer | Problem Solver | DSA Enthusiast</center><br> 
+<ul>
+  <li>💻 Currently working on creating responsive websites and exploring real-world problem-solving.
+ </li>
+  <li>🚀 Areas I explore: React, Node.js, Express.js. jQuery, Bootstrap. 
+</li>
+  <li>🎯 Goal: Contribute to open source, build real-world projects and grow as a full-stack developer.
+ </li>
+  <li>🌐 Portfolio: {Coming Soon} 
+ </li>
+</ul>
+#💡 Curiosity sparks my code. Growth shapes my journey. <br> 
 
 
 <!--
