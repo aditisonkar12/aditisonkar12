@@ -52,8 +52,17 @@
 <a href="https://linkedin.com/in/aditi-sonkar-1125262a4" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="70" />
 </a>
+
 <a href="https://leetcode.com/u/aditisonkar_12/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" height="70" />
+</a>
+
+<a href="https://codeforces.com/profile/aditisonkar12" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" height="70" />
+</a>
+
+<a href="https://www.codechef.com/users/aditisonkar12" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-fff200?style=flat&logo=codechef&logoColor=black" height="70" />
 </a>
 
 ---
