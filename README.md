@@ -1,5 +1,11 @@
 ## Hi👋, I'm Aditi Sonkar!  <br> 
-### Full Stack Developer | Problem Solver | DSA Enthusiast<br> 
+### Full Stack Developer | Problem Solver | DSA & CP Enthusiast<br> 
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aditisonkar12" alt="aditisonkar12" />
+  </a> 
+</p>
 
 <ul>
   <li>💻 Currently working on creating responsive websites and exploring real-world problem-solving.
@@ -47,6 +53,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="70" />
 </a>
 
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditisonkar12&show_icons=true&locale=en&layout=compact" alt="aditisonkar12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditisonkar12&show_icons=true&locale=en" alt="aditisonkar12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditisonkar12&" alt="aditisonkar12" /></p>
 
 <!--
 **aditisonkar12/aditisonkar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
