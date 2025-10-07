@@ -52,6 +52,9 @@
 <a href="https://linkedin.com/in/aditi-sonkar-1125262a4" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="70" />
 </a>
+<a href="https://leetcode.com/u/aditisonkar_12/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" height="70" />
+</a>
 
 ---
 
