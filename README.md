@@ -73,9 +73,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditisonkar12&" alt="aditisonkar12" /></p>
 
----
-
-[![An image of @aditisonkar12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditisonkar12)](https://holopin.io/@aditisonkar12)
 <!--
 **aditisonkar12/aditisonkar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
