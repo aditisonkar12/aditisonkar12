@@ -71,7 +71,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditisonkar12&show_icons=true&locale=en" alt="aditisonkar12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditisonkar12&" alt="aditisonkar12" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aditisonkar12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 
 <!--
 **aditisonkar12/aditisonkar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
