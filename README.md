@@ -71,7 +71,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditisonkar12&show_icons=true&locale=en" alt="aditisonkar12" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=aditisonkar12&theme=tokyonight&hide_border=true" alt="aditisonkar12" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=aditisonkar12&hide_border=true" alt="aditisonkar12" /></p>
 
 
 
