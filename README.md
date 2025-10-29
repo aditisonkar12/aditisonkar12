@@ -67,10 +67,20 @@
 
 ---
 
+<!-- Top Languages -->
+<img src="https://github-readme-stats-wheat-tau-89.vercel.app/api/top-langs/?username=aditisonkar12&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-wheat-tau-89.vercel.app/api?username=aditisonkar12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats-six-pink.vercel.app/?user=aditisonkar12&theme=tokyonight" alt="GitHub Streak" />
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditisonkar12&show_icons=true&locale=en&layout=compact" alt="aditisonkar12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditisonkar12&show_icons=true&locale=en" alt="aditisonkar12" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=aditisonkar12&hide_border=true" alt="aditisonkar12" /></p>
 
-
+---
