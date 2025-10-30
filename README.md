@@ -3,7 +3,10 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aditisonkar12&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aditisonkar12&theme=flat&column=6&title=Commits,Repositories,Experience,Stars,Issues,PullRequest" alt="GitHub Trophies" />
+</p>
+
+
   </a> 
 </p>
 
