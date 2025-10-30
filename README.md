@@ -65,10 +65,11 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditisonkar12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditisonkar12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aditisonkar12" /></p>
 
-<img src="https://streak-stats.demolab.com?user=aditisonkar12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditisonkar12&show_icons=true&locale=en&theme=tokyonight" alt="aditisonkar12" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditisonkar12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditisonkar12&theme=tokyonight" alt="aditisonkar12" /></p>
 
 ---
+
