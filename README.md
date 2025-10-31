@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hey there, I'm <span style="color:#7aa2f7;">Aditi Sonkar</span>!</h2>
 <h3 align="center">🚀 Frontend Developer | Open Source Contributor | DSA & CP Enthusiast</h3>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aditisonkar12&theme=flat&column=6&title=Commits,Repositories,Experience,Stars,Issues,PullRequest" alt="GitHub Trophies" />
 </p>
@@ -10,13 +10,11 @@
   </a> 
 </p>
 
-<ul>
-  <li>💻 Currently working on creating responsive websites and exploring real-world problem-solving.</li>
-  <li>🚀 Areas I explore: React, Node.js, Express.js, jQuery, Bootstrap.</li>
-  <li>🎯 Goal: Contribute to open source, build real-world projects and grow as a full-stack developer.</li>
-  <li>🌐 Portfolio: {Coming Soon}</li>
-  <li>💡 Curiosity sparks my code. Growth shapes my journey.</li>
-</ul>
+💻 Currently focused on crafting **responsive and accessible web applications** using modern frontend technologies.  
+🧠 Solved **500+ LeetCode** and **100+ CodeChef** problems — active participant on **Codeforces (Rating: 903)**.  
+🎯 Passionate about **clean code, scalability**, and building real-world projects.  
+🚀 Exploring **React, Node.js, Express.js**, and full-stack development.  
+💡 “Curiosity sparks my code; growth shapes my journey.”
 
 ---
 
