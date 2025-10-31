@@ -1,5 +1,5 @@
-## Hi👋, I'm Aditi Sonkar!  <br> 
-### Frontend Developer | Open Source Contributor | DSA & CP Enthusiast<br> 
+<h2 align="center">👋 Hey there, I'm <span style="color:#7aa2f7;">Aditi Sonkar</span>!</h2>
+<h3 align="center">🚀 Frontend Developer | Open Source Contributor | DSA & CP Enthusiast</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
