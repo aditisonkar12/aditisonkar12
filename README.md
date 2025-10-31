@@ -1,5 +1,5 @@
 ## Hi👋, I'm Aditi Sonkar!  <br> 
-### Full Stack Developer | Problem Solver | DSA & CP Enthusiast<br> 
+### Frontend Developer | Open Source Contributor | DSA & CP Enthusiast<br> 
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
