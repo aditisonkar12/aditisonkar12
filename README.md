@@ -44,20 +44,22 @@
 
 ---
 
-### 🔗 Let's Connect:
+### 🔗 Let's Connect  
 
-<a href="https://linkedin.com/in/aditi-sonkar-1125262a4" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="35" />
-</a>
-<a href="https://leetcode.com/u/aditisonkar_12/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" height="35" />
-</a>
-<a href="https://codeforces.com/profile/aditisonkar12" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" height="35" />
-</a>
-<a href="https://www.codechef.com/users/aditisonkar12" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-fff200?style=flat&logo=codechef&logoColor=black" height="35" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/aditi-sonkar-1125262a4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/aditisonkar_12/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/aditisonkar12">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/aditisonkar12">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
 ---
 
