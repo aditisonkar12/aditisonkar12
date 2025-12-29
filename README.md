@@ -63,9 +63,9 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditisonkar12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aditisonkar12" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditisonkar12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aditisonkar12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditisonkar12&show_icons=true&locale=en&theme=tokyonight" alt="aditisonkar12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditisonkar12&show_icons=true&locale=en&theme=tokyonight" alt="aditisonkar12" /></p> -->
 
 [![GitHub Streak](https://github-readme-streak-stats-cyan-beta.vercel.app?user=aditisonkar12&theme=tokyonight)](https://git.io/streak-stats)
 ---
