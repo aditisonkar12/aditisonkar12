@@ -1,10 +1,9 @@
 <h2 align="center">👋 Hey there, I'm <span style="color:#7aa2f7;">Aditi Sonkar</span>!</h2>
 <h3 align="center">🚀 Frontend Developer | Open Source Contributor | DSA & CP Enthusiast</h3>
-
-<!-- <p align="center"> 
+ <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aditisonkar12&theme=flat&column=6&title=Commits,Repositories,Experience,Stars,Issues,PullRequest" alt="GitHub Trophies" />
-</p> -->
+</p>
 
 
   </a> 
