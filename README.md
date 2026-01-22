@@ -11,7 +11,7 @@
 </p>
 
 💻 Currently focused on crafting **responsive and accessible web applications** using modern frontend technologies.  
-🧠 Solved **500+ LeetCode** and **100+ CodeChef** problems — active participant on **Codeforces (Rating: 903)**.  
+🧠 Solved **600+ LeetCode** and **100+ CodeChef** problems — active participant on **Codeforces (Rating: 903)**.  
 🎯 Passionate about **clean code, scalability**, and building real-world projects.  
 🚀 Exploring **React, Node.js, Express.js**, and full-stack development.  
 💡 “Curiosity sparks my code; growth shapes my journey.”
