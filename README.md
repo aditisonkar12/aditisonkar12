@@ -6,7 +6,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aditisonkar12&theme=flat&column=6&title=Commits,Repositories,Experience,Stars,Issues,PullRequest" alt="GitHub Trophies" />
 </p> -->
 
-
   </a> 
 </p>
 
