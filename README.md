@@ -7,11 +7,22 @@ Building <b>clean, responsive, and accessible projects</b> while constantly leve
 
 ---
 
-💻 Currently focused on crafting **responsive and accessible web applications** using modern frontend technologies.  
-🧠 Solved **600+ LeetCode** and **100+ CodeChef** problems — active participant on **Codeforces (Rating: 903)**.  
-🎯 Passionate about **clean code, scalability**, and building real-world projects.  
-🚀 Exploring **React, Node.js, Express.js**, and full-stack development.  
-💡 “Curiosity sparks my code; growth shapes my journey.”
+- 🎯 What Drives Me
+  - Turning ideas into **real-world, impactful products**
+  - Growing consistently through learning, building, and contributing 
+- ⭐ **Problem Solving**
+  - Solved **600+ problems on LeetCode**
+  - Solved **100+ problems on CodeChef**
+  - **Codeforces Rating:** 903 *(improving)*
+- 🚀 Exploring **React, Node.js, and Express.js** for full-stack development
+- 📊 Currently learning **AI/ML & Data Science** fundamentals and real-world applications
+- 🎯 Passionate about **clean code, scalability, and problem-solving**
+
+---
+
+<p align="center">
+<i>“Curiosity fuels my code, and consistency shapes my growth.”</i> ✨
+</p>
 
 ---
 
