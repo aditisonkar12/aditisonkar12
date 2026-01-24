@@ -1,5 +1,11 @@
-<h2 align="center">👋 Hey there, I'm <span style="color:#7aa2f7;">Aditi Sonkar</span>!</h2>
-<h3 align="center">🚀 Frontend Developer | Open Source Contributor | DSA & CP Enthusiast</h3>
+<h2 align="center">👋 Hi, I'm <span style="color:#7aa2f7;">Aditi Sonkar</span></h2>
+<h3 align="center">Open-Source Contributor | DSA & CP Enthusiast</h3>
+
+<p align="center">
+Building <b>clean, responsive, and accessible projects</b> while constantly leveling up my problem-solving skills.
+</p>
+
+---
 
 💻 Currently focused on crafting **responsive and accessible web applications** using modern frontend technologies.  
 🧠 Solved **600+ LeetCode** and **100+ CodeChef** problems — active participant on **Codeforces (Rating: 903)**.  
