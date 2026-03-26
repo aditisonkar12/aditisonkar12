@@ -11,7 +11,7 @@ Building <b>clean, responsive, and accessible projects</b> while constantly leve
   - Turning ideas into **real-world, impactful products**
   - Growing consistently through learning, building, and contributing 
 - ⭐ **Problem Solving**
-  - Solved **600+ problems on LeetCode**
+  - Solved **700+ problems on LeetCode**
   - Solved **100+ problems on CodeChef**
   - **Codeforces Rating:** 903 *(improving)*
 - 🚀 Exploring **React, Node.js, and Express.js** for full-stack development
