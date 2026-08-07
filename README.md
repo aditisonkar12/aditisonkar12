@@ -13,7 +13,7 @@ Building <b>clean, responsive, and accessible projects</b> while constantly leve
 - ⭐ **Problem Solving**
   - Solved **800+ problems on LeetCode**
   - Solved **100+ problems on CodeChef**
-  - **Codeforces Rating:** 903 *(improving)*
+  - **Codeforces Rating:** 1035 *(improving)*
 - 🚀 Exploring **React, Node.js, and Express.js** for full-stack development
 - 📊 Currently learning **AI/ML & Data Science** fundamentals and real-world applications
 - 🎯 Passionate about **clean code, scalability, and problem-solving**
