@@ -21,7 +21,7 @@ Building <b>clean, responsive, and accessible projects</b> while constantly leve
 ---
 
 <p align="center">
-<i>“Curiosity fuel my code, and consistency shapes my growth.”</i> ✨
+<i>“Curiosity fuels my code, and consistency shapes my growth.”</i> ✨
 </p>
 
 ---
