@@ -1,6 +1,5 @@
 <h2 align="center">👋 Hi there, I'm <span style="color:#7aa2f7;">Aditi Sonkar</span></h2>
 <h3 align="center">Open-Source Contributor | DSA & CP Enthusiast</h3>
-
 <p align="center">
 Building <b>clean, responsive, and accessible projects</b> while constantly leveling up my problem-solving skills.
 </p>
