@@ -5,6 +5,7 @@ Building <b>clean, responsive, and accessible projects</b> while constantly leve
 </p>
 
 ---
+
 - 🎯 **What Drives me**
   - Turning ideas into **real-world, impactful products**
   - Growing consistently through learning, building, and contributing 
@@ -15,6 +16,7 @@ Building <b>clean, responsive, and accessible projects</b> while constantly leve
 - 🚀 Exploring **React, Node.js, and Express.js** for full-stack development
 - 📊 Currently learning **AI/ML & Data Science** fundamentals and real-world applications
 - 🎯 Passionate about **clean code, scalability, and problem-solving**
+  
 ---
 
 <p align="center">
