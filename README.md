@@ -52,15 +52,22 @@ Building <b>clean, responsive, and accessible projects</b> while constantly leve
 
 ---
 
-### 🔗 Let's Connect  
+### 🔗 Let's Connect
 
-
-<div align="center">
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditi-sonkar-1125262a4) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aditisonkar_12/) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/aditisonkar12) 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/aditisonkar12)
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/aditi-sonkar-1125262a4">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/aditisonkar_12/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/aditisonkar12">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/aditisonkar12">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
 
 ---
 
