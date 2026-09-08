@@ -77,6 +77,13 @@ Building <b>clean, responsive, and accessible projects</b> while constantly leve
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditisonkar12&show_icons=true&locale=en&theme=tokyonight" alt="aditisonkar12" /></p> -->
 
-[![GitHub Streak](https://github-readme-streak-stats-cyan-beta.vercel.app?user=aditisonkar12&theme=tokyonight)](https://git.io/streak-stats)
----
+<!--[![GitHub Streak](https://github-readme-streak-stats-cyan-beta.vercel.app?user=aditisonkar12&theme=tokyonight)](https://git.io/streak-stats)
+--- -->
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-cyan-beta.vercel.app?user=aditisonkar12&theme=dark&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&sideLabels=ffb6c1&dates=ffc0cb&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
